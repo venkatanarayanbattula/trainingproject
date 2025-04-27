@@ -1,0 +1,5 @@
+{
+  "enable":"true",
+  "scheduler.expression": "0 0/2 * 1/1 * ? *",
+  "page.path": "/content/trainingproject/us"
+}
